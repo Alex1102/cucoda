@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/CustomerDataRepositoryImpl.java" line="25" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21407ea3-013b-4f63-8769-6f75c4d2ce9b" name="Default" comment="" />
+    <list default="true" id="21407ea3-013b-4f63-8769-6f75c4d2ce9b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cucoda-ear/target/" />
@@ -208,17 +211,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cucoda-rest/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1513">
-              <caret line="89" column="56" selection-start-line="89" selection-start-column="56" selection-end-line="89" selection-end-column="56" />
+            <state relative-caret-position="360">
+              <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cucoda-rest/src/got_to_git">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -271,10 +274,12 @@
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/Test.java" />
         <option value="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Random.java" />
         <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/CreateCustomerDataService.java" />
         <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/Test.java" />
@@ -425,6 +430,7 @@
         <option value="$PROJECT_DIR$/cucoda-rest/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cucoda-rest/src/got_to_git" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -454,6 +460,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1175" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
@@ -469,123 +476,6 @@
               <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
               <item name="cucoda" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-rest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
-              <item name="cucoda-rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -595,7 +485,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549041862608" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549044163348" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ccd" />
@@ -1088,9 +978,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1175" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="JavaEE:App" order="0" sideWeight="0.50754935" side_tool="true" weight="0.30683032" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.81439394" visible="true" weight="0.21901709" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.81439394" visible="true" weight="0.21901709" />
       <window_info id="Structure" order="2" weight="0.2497332" />
       <window_info id="Nl-Palette" order="3" />
       <window_info id="Designer" order="4" />
@@ -1111,8 +1002,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32911393" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.3212928" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31292516" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31322956" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32035053" />
       <window_info anchor="bottom" id="MaxCompute Console" order="12" />
       <window_info anchor="bottom" id="MaxCompute Job" order="13" />
@@ -1232,7 +1123,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/ValidationError.java" />
     <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/Clerk.java" />
     <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/Problem.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0-sources.jar!/javax/ws/rs/WebApplicationException.java" />
@@ -2060,17 +1950,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cucoda-rest/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="89" column="56" selection-start-line="89" selection-start-column="56" selection-end-line="89" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cucoda-rest/src/got_to_git">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
