@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-deployment-structure xmlns="urn:jboss:deployment-structure:1.2">
+    <deployment>
+        <!--<dependencies>-->
+            <!--&lt;!&ndash; For REST calls &ndash;&gt;-->
+            <!--<module name="org.jboss.resteasy.resteasy-jaxrs" export="true"/>-->
+            <!--<module name="org.jboss.resteasy.resteasy-jaxb-provider" export="true"/>-->
+            <!--<module name="org.apache.httpcomponents" export="true"/>-->
+            <!--<module name="org.apache.commons.codec" export="true"/>-->
+            <!--<module name="org.apache.commons.lang" export="true"/>-->
+        <!--</dependencies>-->
+        <!--<exclusions>-->
+            <!--<module name="org.picketbox"/>-->
+        <!--</exclusions>-->
+    </deployment>
+</jboss-deployment-structure>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.mycompany.cucoda</groupId>
+        <artifactId>cucoda</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <!--<groupId>com.mycompany.cucoda</groupId>-->
+    <artifactId>cucoda-rest</artifactId>
+    <name>cucoda-rest</name>
+    <packaging>war</packaging>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.mycompany.cucoda</groupId>
+            <artifactId>cucoda-api</artifactId>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>com.mycompany.cucoda</groupId>
+            <artifactId>cucoda-model</artifactId>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>com.mycompany.cucoda</groupId>
+            <artifactId>cucoda-rest-api</artifactId>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>com.mycompany.cucoda</groupId>
+            <artifactId>cucoda-core</artifactId>
+        </dependency>
+
+        <!-- Java EE -->
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-api</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- RESTEASY-Shizzle -->
+        <dependency>
+            <groupId>org.jboss.resteasy</groupId>
+            <artifactId>resteasy-jaxrs</artifactId>
+            <exclusions>
+                <exclusion>
+                    <artifactId>logkit</artifactId>
+                    <groupId>logkit</groupId>
+                </exclusion>
+            </exclusions>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.jboss.resteasy</groupId>
+            <artifactId>resteasy-jaxb-provider</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.jboss.resteasy</groupId>
+            <artifactId>resteasy-jackson-provider</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.7.4</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- Log4J -->
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+        </dependency>
+
+        <!-- aspectJ for LoggingAspect -->
+        <!--<dependency>-->
+            <!--<groupId>org.aspectj</groupId>-->
+            <!--<artifactId>aspectjrt</artifactId>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>org.aspectj</groupId>-->
+            <!--<artifactId>aspectjtools</artifactId>-->
+        <!--</dependency>-->
+        <dependency>
+            <groupId>com.thoughtworks.xstream</groupId>
+            <artifactId>xstream</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.codehaus.jettison</groupId>
+            <artifactId>jettison</artifactId>
+        </dependency>
+
+        <!-- Testing -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.mycompany.cucoda</groupId>
+            <artifactId>cucoda-rest-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+        </dependency>
+
+        <!--<dependency>-->
+            <!--<groupId>org.jboss.ejb3</groupId>-->
+            <!--<artifactId>jboss-ejb3-ext-api</artifactId>-->
+            <!--<version>2.0.0</version>-->
+        <!--</dependency>-->
+    </dependencies>
+
+    <build>
+        <finalName>${cucoda-core.finalName}</finalName>
+        <plugins>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>${compiler.target.version}</source>
+                    <target>${compiler.target.version}</target>
+                </configuration>
+            </plugin>
+            <!--<plugin>-->
+                <!--<groupId>org.codehaus.mojo</groupId>-->
+                <!--<artifactId>aspectj-maven-plugin</artifactId>-->
+                <!--<configuration>-->
+                    <!--<source>1.8</source>-->
+                    <!--<complianceLevel>1.8</complianceLevel>-->
+                <!--</configuration>-->
+                <!--<executions>-->
+                    <!--<execution>-->
+                        <!--<goals>-->
+                            <!--<goal>compile</goal>-->
+                            <!--<goal>test-compile</goal>-->
+                        <!--</goals>-->
+                    <!--</execution>-->
+                <!--</executions>-->
+            <!--</plugin>-->
+        </plugins>
+    </build>
+</project>

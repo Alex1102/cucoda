@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrder" value="" />
+        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../omdm-codestyle.xml" />
+        <option name="selectedJavaProfile" value="OMDMCodeStyle" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1498221457191" />
+        <option name="importOrder" value="" />
+        <option name="name" value="default" />
+        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../omdm-codestyle.xml" />
+        <option name="selectedJavaProfile" value="OMDMCodeStyle" />
+      </Settings>
+    </option>
+  </component>
+</project>

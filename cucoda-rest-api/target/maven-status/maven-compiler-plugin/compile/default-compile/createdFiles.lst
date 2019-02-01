@@ -1,0 +1,17 @@
+com/mycompany/cucoda/rest/model/Gender.class
+com/mycompany/cucoda/rest/model/PaymentId.class
+com/mycompany/cucoda/rest/api/MonitoringRestService.class
+com/mycompany/cucoda/rest/api/ModifyCustomerDataRestService.class
+com/mycompany/cucoda/rest/api/ReadCustomerDataRestService.class
+com/mycompany/cucoda/rest/model/PassportId.class
+com/mycompany/cucoda/rest/mapper/Mapper.class
+com/mycompany/cucoda/rest/model/Market.class
+com/mycompany/cucoda/rest/model/AddressId.class
+com/mycompany/cucoda/rest/model/Address.class
+com/mycompany/cucoda/rest/model/Contact.class
+com/mycompany/cucoda/rest/model/CustomerNumber.class
+com/mycompany/cucoda/rest/model/Customer.class
+com/mycompany/cucoda/rest/model/PassportType.class
+com/mycompany/cucoda/rest/model/Payment.class
+com/mycompany/cucoda/rest/model/Passport.class
+com/mycompany/cucoda/rest/model/ContactId.class

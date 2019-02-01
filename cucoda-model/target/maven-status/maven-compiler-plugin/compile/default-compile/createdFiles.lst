@@ -1,0 +1,15 @@
+com/mycompany/cucoda/model/PaymentId.class
+com/mycompany/cucoda/model/PassportId.class
+com/mycompany/cucoda/api/VersionData.class
+com/mycompany/cucoda/model/Contact.class
+com/mycompany/cucoda/model/ContactId.class
+com/mycompany/cucoda/model/CustomerNumber.class
+com/mycompany/cucoda/model/Passport.class
+com/mycompany/cucoda/model/PassportType.class
+com/mycompany/cucoda/model/AddressId.class
+com/mycompany/cucoda/model/Payment.class
+com/mycompany/cucoda/model/Person.class
+com/mycompany/cucoda/model/Gender.class
+com/mycompany/cucoda/model/Address.class
+com/mycompany/cucoda/model/Customer.class
+com/mycompany/cucoda/model/Market.class

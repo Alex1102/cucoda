@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cucoda.iml" filepath="$PROJECT_DIR$/cucoda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cucoda-api/cucoda-api.iml" filepath="$PROJECT_DIR$/cucoda-api/cucoda-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cucoda-core/cucoda-core.iml" filepath="$PROJECT_DIR$/cucoda-core/cucoda-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cucoda-ear/cucoda-ear.iml" filepath="$PROJECT_DIR$/cucoda-ear/cucoda-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cucoda-model/cucoda-model.iml" filepath="$PROJECT_DIR$/cucoda-model/cucoda-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cucoda-rest/cucoda-rest.iml" filepath="$PROJECT_DIR$/cucoda-rest/cucoda-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cucoda-rest-api/cucoda-rest-api.iml" filepath="$PROJECT_DIR$/cucoda-rest-api/cucoda-rest-api.iml" />
+    </modules>
+  </component>
+</project>

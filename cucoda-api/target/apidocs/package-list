@@ -1,0 +1,4 @@
+com.mycompany.cucoda.api
+com.mycompany.cucoda.exception
+com.mycompany.cucoda.repository
+com.mycompany.cucoda.service

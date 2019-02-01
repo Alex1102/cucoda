@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="cucoda-core:ejb">
+    <output-path>$PROJECT_DIR$/cucoda-core/target</output-path>
+    <root id="archive" name="cucoda-core-v${project.version.major}.${project.version.minor}${project.version.suffix}.jar">
+      <element id="artifact" artifact-name="cucoda-core:ejb exploded" />
+    </root>
+  </artifact>
+</component>

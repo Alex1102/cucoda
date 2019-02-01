@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="cucoda-ear:ear">
+    <output-path>$PROJECT_DIR$/cucoda-ear/target</output-path>
+    <root id="archive" name="cucoda-core-v${project.version.major}.${project.version.minor}${project.version.suffix}.ear">
+      <element id="artifact" artifact-name="cucoda-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

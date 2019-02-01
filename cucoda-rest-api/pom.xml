@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.mycompany.cucoda</groupId>
+        <artifactId>cucoda</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>cucoda-rest-api</artifactId>
+    <name>cucoda-rest-api</name>
+    <packaging>jar</packaging>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.mycompany.cucoda</groupId>
+            <artifactId>cucoda-model</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>javax.ws.rs</groupId>
+            <artifactId>javax.ws.rs-api</artifactId>
+        </dependency>
+    </dependencies>
+    <build>
+    <finalName>${cucoda-rest-api.finalName}</finalName>
+    <plugins>
+        <plugin>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>${compiler.source.version}</source>
+                <target>${compiler.target.version}</target>
+            </configuration>
+        </plugin>
+        <plugin>
+            <groupId>com.github.kongchen</groupId>
+            <artifactId>swagger-maven-plugin</artifactId>
+            <version>${openapi.swagger-maven-plugin.version}</version>
+            <configuration>
+                <apiSources>
+                    <apiSource>
+                        <springmvc>false</springmvc>
+                        <locations>
+                            <location>com.mycompany.cucoda</location>
+                            <location>com.mycompany.cucoda</location>
+                        </locations>
+                        <basePath>/${cucoda-rest.contextRoot}</basePath>
+                        <info>
+                            <title>cucoda</title>
+                            <version>${project.version.major}.${project.version.minor}${project.version.suffix}</version>
+                            <contact>
+                                <name>???</name>
+                                <url>github</url>
+                            </contact>
+                        </info>
+                        <swaggerDirectory>${project.build.outputDirectory}</swaggerDirectory>
+                        <outputPath>${project.build.outputDirectory}</outputPath>
+                    </apiSource>
+                </apiSources>
+            </configuration>
+            <executions>
+                <execution>
+                    <phase>compile</phase>
+                    <goals>
+                        <goal>generate</goal>
+                    </goals>
+                </execution>
+            </executions>
+        </plugin>
+
+    </plugins>
+    </build>
+</project>

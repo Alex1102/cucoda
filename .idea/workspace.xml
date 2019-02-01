@@ -1,0 +1,2168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/CustomerDataRepositoryImpl.java" line="25" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21407ea3-013b-4f63-8769-6f75c4d2ce9b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cucoda-ear/target/" />
+    <ignored path="$PROJECT_DIR$/cucoda-rest-api/target/" />
+    <ignored path="$PROJECT_DIR$/cucoda-model/target/" />
+    <ignored path="$PROJECT_DIR$/cucoda-core/target/" />
+    <ignored path="$PROJECT_DIR$/cucoda-api/target/" />
+    <ignored path="$PROJECT_DIR$/cucoda-rest/target/" />
+    <ignored path="$PROJECT_DIR$/cucoda-integrationtest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cucoda" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ReadCustomerDataRestService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/MonitoringRestServiceBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/MonitoringRestService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/webapp/WEB-INF/jboss-web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-ear/src/main/application/META-INF/jboss-deployment-structure.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/mapper/Mapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ModifyCustomerDataRestBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="65" column="35" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/CustomerDataService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ModifyCustomerDataRestService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest/src/test/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBeanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-ear/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest-api/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-api/target/generated/main/java/com/mycompany/cucoda/api/VersionData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/template/com/mycompany/cucoda/api/VersionData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-api/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1513">
+              <caret line="89" column="56" selection-start-line="89" selection-start-column="56" selection-end-line="89" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cucoda-rest/src/got_to_git">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CustomerNumber</find>
+      <find>toLi</find>
+      <find>addressDataService</find>
+      <find>we</find>
+      <find>web.x</find>
+      <find>web.</find>
+      <find>web</find>
+      <find>w</find>
+      <find>js</find>
+      <find>jsr</find>
+      <find>jackson-datatype-jsr310</find>
+      <find>resolver</find>
+      <find>ReadCustomerDataRestBeanTest</find>
+      <find>ObjectMapperContextResolver</find>
+      <find>read_role</find>
+      <find>auth-constraint</find>
+      <find>deny-http-uncovered-methods</find>
+      <find>com.fasterxml.jackson.datatype.jsr31</find>
+      <find>security-role-mapping</find>
+      <find>PersonRestService</find>
+      <find>resteasy.jaxrs.version</find>
+      <find>resteasy-jaxrs</find>
+      <find>version.junit</find>
+      <find>mockito-all</find>
+      <find>xstream</find>
+      <find>dbutils</find>
+      <find>aspectj</find>
+      <find>log4j</find>
+      <find>jettison</find>
+      <find>cucoda-rest-api</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/Test.java" />
+        <option value="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Random.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/CreateCustomerDataService.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/Test.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/CreateCustomerDataRestBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/java/com/mycompany/cucoda/rest/api/CreateCustomerDataRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/java/com/mycompany/cucoda/rest/api/ModifySubscriptionRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/oneandone/subscriptionmanagement/carlos/rest/api/ModifySubscriptionRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ModifySubscriptionRestService.java" />
+        <option value="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0-sources.jar!/javax/ws/rs/core/MediaType.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/java/com/mycompany/cucoda/api/CreateCustomerDataBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/CreateCustomerDataBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/ReadCustomerDataService.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/CreateCustomerDataService.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/exception/InvalidCustomerException.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/exception/CarlosBusinessException.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/exception/CucodaBusinessException.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/util/JaxRsActivator.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/pom.xml" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/webapp/WEB-INF/jboss-web.xml" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/PingRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-ear/target/classes/META-INF/beans.xml" />
+        <option value="/usr/lib/jvm/java-8-oracle/src.zip!/java/sql/SQLInvalidAuthorizationSpecException.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/cucoda-ear/target/application.xml" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/MonitoringService.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/MonitoringServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-ear/pom.xml" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/MonitoringRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/EntityNotFoundMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/ReadCustomerDataBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/ProblemType.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/ValidationError.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/Problem.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/Clerk.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/EJBExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/constants/RestConstants.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/WebApplicationExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/exception/CucodaException.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/exception/CustomerAlreadyExistsException.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/CreateCustomerDataRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/CreateCustomerDataBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/db/CucodaPersistenceService.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/CucodaRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/CreateCustomerDataBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/CreateCustomerDataRestBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/ReadCustomerDataBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/CustomerDataRestBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/CustomerDataService.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/CucodaRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/MonitoringService.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/repository/CucodaRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/CucodaPersistenceService.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/CustomerNotFoundExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/CustomerAlreadyExistsExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/AccountId.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/CucodaRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/CucodaRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/CustomerDataBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/PaymnetDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/PaymetnDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/ContactDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/PaymentDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/PassportDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/AddressDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/CompanyType.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/InvalidArgumentExeption.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/InvalidArgumentException.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/util/RestValidationUtils.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/PaymentServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/ContactDataService.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/AddressDataService.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/CustomerNotFoundException.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/CustomerAlreadyExistsException.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/AddressNotFoundException.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/ContactRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/AddressRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/CustomerRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/CustomerRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ModifyCustomerRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ModifyCustomerRestBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ReadCustomerRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ReadCustomerRestBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/NotFoundExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/AddressNotFoundExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/PaymentNotFoundExceptiont.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/PaymentNotFoundException.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/PassportNotFoundException.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/AddressDataRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/PaymentDataRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/PaymentDataRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/AddressAlreadyExistsException.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/PassportAlreadyExistsException.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/PassportAlreadyExistsExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/AddressAlreadyExistsExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/PaymentAlreadyExistsException.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/PaymentAlreadyExistsExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/PassportNotFoundExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/PaymentNotFoundExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/PaymentDataService.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/CustomerDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/CustomerDataService.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/ContactDataRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/AddressRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/PassportDataRepository.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/PassportDataRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/PassportDataService.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/PassportDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/PaymentDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/ContactDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/ContactDataRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/InvalidArgumentExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Market.java" />
+        <option value="$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/AddressDataServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ModifyCustomerDataRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/PassportType.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/AddressId.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Contact.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/ContactId.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Gender.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Passport.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/PassportId.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Payment.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/PaymentId.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/CustomerNumber.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Person.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/PersonRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/pom.xml" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/util/Authorizations.java" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Customer.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/serializer/ObjectMapperContextResolver.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/test/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBeanTest.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/test/java/com/mycompany/cucoda/rest/AbstractRestBase.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/webapp/WEB-INF/jboss-web.xml" />
+        <option value="$PROJECT_DIR$/cucoda-ear/src/main/application/META-INF/jboss-deployment-structure.xml" />
+        <option value="$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Address.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Address.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ReadCustomerDataRestService.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ModifyCustomerDataRestBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/mapper/Mapper.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/MonitoringRestServiceBean.java" />
+        <option value="$PROJECT_DIR$/cucoda-integrationtest/pom.xml" />
+        <option value="$PROJECT_DIR$/cucoda-integrationtest/src/main/template/com/mycompany/cucoda/api/VersionData.java" />
+        <option value="$PROJECT_DIR$/cucoda-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cucoda-rest/src/got_to_git" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/workspace/wsdtools/maven/current" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1175" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucoda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucoda" type="462c0819:PsiDirectoryNode" />
+              <item name="cucoda-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549041862608" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ccd" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mycompany.cucoda.rest" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mycompany.cucoda.rest" />
+      <recent name="com.mycompany.cucoda" />
+      <recent name="com.mycompany.cucoda.api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cucoda-api/src/main" />
+      <recent name="$PROJECT_DIR$/cucoda-api/src/java/com/mycompany/cucoda" />
+      <recent name="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api" />
+      <recent name="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany" />
+      <recent name="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/oneandone/subscriptionmanagement/carlos/rest/api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cucoda-integrationtest/src/main" />
+      <recent name="$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model" />
+      <recent name="$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper" />
+      <recent name="$PROJECT_DIR$/cucoda-api/src/java/com/mycompany/cucoda/api" />
+      <recent name="$PROJECT_DIR$/cucoda-api/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mycompany.cucoda.model" />
+      <recent name="com.mycompany.cucoda.rest.mapper" />
+      <recent name="com.mycompany.cucoda.rest.util" />
+      <recent name="com.mycompany.cucoda.api.exception" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mycompany.cucoda.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ReadCustomerDataRestBeanTest.getCustomer">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadCustomerDataRestBeanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucoda-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.cucoda.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mycompany.cucoda.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.cucoda.rest.ReadCustomerDataRestBeanTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadCustomerDataRestBeanTest.getCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucoda-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.cucoda.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mycompany.cucoda.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.cucoda.rest.ReadCustomerDataRestBeanTest" />
+      <option name="METHOD_NAME" value="getCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8787" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8787" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ReadCustomerDataRestBeanTest" />
+      <item itemvalue="JUnit.ReadCustomerDataRestBeanTest.getCustomer" />
+      <item itemvalue="Remote.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReadCustomerDataRestBeanTest.getCustomer" />
+        <item itemvalue="JUnit.ReadCustomerDataRestBeanTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21407ea3-013b-4f63-8769-6f75c4d2ce9b" name="Default" comment="" />
+      <created>1540570916484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540570916484</updated>
+      <workItem from="1540570919559" duration="2860000" />
+      <workItem from="1540667152717" duration="128000" />
+      <workItem from="1540670232002" duration="84000" />
+      <workItem from="1540793713098" duration="741000" />
+      <workItem from="1540928623051" duration="57000" />
+      <workItem from="1540932779142" duration="2190000" />
+      <workItem from="1540934985226" duration="12943000" />
+      <workItem from="1540969584537" duration="707000" />
+      <workItem from="1541619270882" duration="4111000" />
+      <workItem from="1541664911286" duration="5375000" />
+      <workItem from="1542615878277" duration="1121000" />
+      <workItem from="1542623246736" duration="9797000" />
+      <workItem from="1542649205218" duration="1048000" />
+      <workItem from="1542667476971" duration="642000" />
+      <workItem from="1542674064585" duration="1146000" />
+      <workItem from="1542676091198" duration="1465000" />
+      <workItem from="1542700745450" duration="2244000" />
+      <workItem from="1542721315028" duration="601000" />
+      <workItem from="1542728707536" duration="6820000" />
+      <workItem from="1542787623782" duration="9587000" />
+      <workItem from="1542809419329" duration="8519000" />
+      <workItem from="1542870926774" duration="6636000" />
+      <workItem from="1542886964595" duration="7555000" />
+      <workItem from="1542956693094" duration="6235000" />
+      <workItem from="1542975554831" duration="10307000" />
+      <workItem from="1542986404498" duration="14063000" />
+      <workItem from="1543217946179" duration="1200000" />
+      <workItem from="1543317600201" duration="638000" />
+      <workItem from="1543568195852" duration="643000" />
+      <workItem from="1543930846597" duration="366000" />
+      <workItem from="1544022414422" duration="6217000" />
+      <workItem from="1544168092269" duration="16735000" />
+      <workItem from="1544778741521" duration="1956000" />
+      <workItem from="1544801663664" duration="2848000" />
+      <workItem from="1544805743974" duration="371000" />
+      <workItem from="1545238932677" duration="6209000" />
+      <workItem from="1545292401055" duration="8258000" />
+      <workItem from="1545377275512" duration="803000" />
+      <workItem from="1545378092882" duration="1538000" />
+      <workItem from="1547623586537" duration="1756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReadCustomerDataRestBeanTest_getCustomer - 2018.12.07 at 19h 14m 55s.xml">
+      <configuration name="ReadCustomerDataRestBeanTest.getCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadCustomerDataRestBeanTest_getCustomer - 2018.12.07 at 19h 15m 03s.xml">
+      <configuration name="ReadCustomerDataRestBeanTest.getCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadCustomerDataRestBeanTest_getCustomer - 2018.12.07 at 19h 15m 30s.xml">
+      <configuration name="ReadCustomerDataRestBeanTest.getCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadCustomerDataRestBeanTest_getCustomer - 2018.12.07 at 19h 15m 37s.xml">
+      <configuration name="ReadCustomerDataRestBeanTest.getCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadCustomerDataRestBeanTest_getCustomer - 2018.12.07 at 19h 15m 46s.xml">
+      <configuration name="ReadCustomerDataRestBeanTest.getCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadCustomerDataRestBeanTest_getCustomer - 2018.12.07 at 19h 16m 01s.xml">
+      <configuration name="ReadCustomerDataRestBeanTest.getCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadCustomerDataRestBeanTest_getCustomer - 2018.12.07 at 19h 24m 11s.xml">
+      <configuration name="ReadCustomerDataRestBeanTest.getCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadCustomerDataRestBeanTest_getCustomer - 2018.12.14 at 10h 13m 30s.xml">
+      <configuration name="ReadCustomerDataRestBeanTest.getCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadCustomerDataRestBeanTest_getCustomer - 2018.12.19 at 18h 06m 23s.xml">
+      <configuration name="ReadCustomerDataRestBeanTest.getCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadCustomerDataRestBeanTest_getCustomer - 2018.12.21 at 09h 46m 48s.xml">
+      <configuration name="ReadCustomerDataRestBeanTest.getCustomer" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="166520000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1175" extended-state="0" />
+    <layout>
+      <window_info id="JavaEE:App" order="0" sideWeight="0.50754935" side_tool="true" weight="0.30683032" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.81439394" visible="true" weight="0.21901709" />
+      <window_info id="Structure" order="2" weight="0.2497332" />
+      <window_info id="Nl-Palette" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="MaxCompute Job Explorer" order="5" sideWeight="0.4912892" weight="0.32977587" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="MaxCompute Project Explorer" order="7" weight="0.32977587" />
+      <window_info id="Image Layers" order="8" />
+      <window_info id="Web" order="9" sideWeight="0.18560606" side_tool="true" weight="0.31056562" />
+      <window_info id="Favorites" order="10" sideWeight="0.50754935" side_tool="true" weight="0.30683032" />
+      <window_info id="Capture Tool" order="11" />
+      <window_info id="EJB" order="12" sideWeight="0.5087108" side_tool="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.115766264" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3369036" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27166504" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.3212928" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31292516" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32035053" />
+      <window_info anchor="bottom" id="MaxCompute Console" order="12" />
+      <window_info anchor="bottom" id="MaxCompute Job" order="13" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.1339381" />
+      <window_info anchor="right" id="CDI" order="6" />
+      <window_info anchor="right" id="Properties" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="JSF" order="9" />
+      <window_info anchor="right" id="Data View" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="12" />
+      <window_info anchor="right" id="Bean Validation" order="13" />
+      <window_info anchor="right" id="Theme Preview" order="14" />
+      <window_info anchor="right" id="Palette" order="15" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/util/RestValidationUtils.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/CustomerDataServiceBean.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ModifyCustomerDataRestBean.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/CustomerDataServiceBean.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ModifyCustomerDataRestBean.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-rest/src/test/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBeanTest.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-rest/src/test/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBeanTest.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBean.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-rest/src/test/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBeanTest.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBean.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cucoda-rest/src/test/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBeanTest.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.4/jackson-datatype-jsr310-2.9.4.jar!/com/fasterxml/jackson/datatype/jsr310/ser/LocalDateTimeSerializer.class</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13-sources.jar!/org/codehaus/jackson/map/ext/JodaDeserializers.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/jboss/resteasy/resteasy-jaxrs/3.0.24.Final/resteasy-jaxrs-3.0.24.Final.jar!/org/jboss/resteasy/spi/ResteasyProviderFactory.class</url>
+          <line>1391</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/ValidationError.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/Clerk.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/Problem.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0-sources.jar!/javax/ws/rs/WebApplicationException.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/constants/RestConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="70" column="38" lean-forward="true" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/util/JaxRsActivator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="155" lean-forward="true" selection-start-line="7" selection-start-column="155" selection-end-line="7" selection-end-column="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/ReadCustomerDataBean.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/api/ReadCustomerDataService.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0-sources.jar!/javax/persistence/EntityNotFoundException.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="718" column="16" selection-start-line="718" selection-start-column="16" selection-end-line="718" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0-sources.jar!/javax/ws/rs/core/Response.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/AccountId.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/CompanyType.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/javaws.jar!/com/sun/javaws/exceptions/InvalidArgumentException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1.jar!/javax/ws/rs/QueryParam.class" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/resteasy/resteasy-jaxrs/3.0.24.Final/resteasy-jaxrs-3.0.24.Final.jar!/org/jboss/resteasy/spi/HttpResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/EJBExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="62" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/CustomerAlreadyExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/InvalidCustomerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="159" column="55" lean-forward="true" selection-start-line="159" selection-start-column="55" selection-end-line="159" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/CucodaBusinessException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/PaymentAlreadyExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/PassportAlreadyExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/WebApplicationExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/PaymentNotFoundExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/PaymentAlreadyExistsExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/PassportNotFoundExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/PassportAlreadyExistsExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/NotFoundExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="87" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/CustomerNotFoundExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/CustomerAlreadyExistsExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/AddressAlreadyExistsExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/AddressNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/ContactDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/PaymentDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/PaymentDataRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/CustomerNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/CustomerDataRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/PassportDataRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/PaymentDataRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/PassportDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/AddressDataRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/ContactDataRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/ContactDataRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/AddressRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/repository/CustomerDataRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/InvalidArgumentExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/mapper/AddressNotFoundExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/AddressDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/javax/xml/bind/annotation/XmlRootElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="173" column="37" lean-forward="true" selection-start-line="173" selection-start-column="37" selection-end-line="173" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/PaymentId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/PassportType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/PassportId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Passport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Market.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/ContactId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/AddressAlreadyExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13-sources.jar!/org/codehaus/jackson/map/ext/JodaSerializers.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonDeserialize.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.0/jackson-datatype-jsr310-2.9.0.jar!/com/fasterxml/jackson/datatype/jsr310/deser/LocalDateTimeDeserializer.class" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/com/sun/org/apache/xml/internal/utils/SerializableLocatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.0/jackson-datatype-jsr310-2.9.0.jar!/com/fasterxml/jackson/datatype/jsr310/JavaTimeModule.class" />
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/cucoda-rest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-ear/src/main/resources/META-INF/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.4/jackson-datatype-jsr310-2.9.4.jar!/com/fasterxml/jackson/datatype/jsr310/deser/JSR310DateTimeDeserializerBase.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.4/jackson-datatype-jsr310-2.9.4.jar!/com/fasterxml/jackson/datatype/jsr310/deser/LocalDateTimeDeserializer.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0-sources.jar!/javax/ws/rs/ext/ContextResolver.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="129" column="12" lean-forward="true" selection-start-line="129" selection-start-column="12" selection-end-line="129" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.4/jackson-datatype-jsr310-2.9.4.jar!/com/fasterxml/jackson/datatype/jsr310/ser/LocalDateTimeSerializer.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/resteasy/resteasy-jaxrs/3.0.24.Final/resteasy-jaxrs-3.0.24.Final.jar!/org/jboss/resteasy/core/MethodInjectorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13-sources.jar!/org/codehaus/jackson/map/ext/JodaDeserializers.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/resteasy/resteasy-jaxrs/3.0.24.Final/resteasy-jaxrs-3.0.24.Final.jar!/org/jboss/resteasy/core/ConstructorInjectorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.4/jackson-datatype-jsr310-2.9.4.jar!/com/fasterxml/jackson/datatype/jsr310/JavaTimeModule.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/resteasy/resteasy-jaxrs/3.0.24.Final/resteasy-jaxrs-3.0.24.Final.jar!/org/jboss/resteasy/spi/ResteasyProviderFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="1163" column="30" selection-start-line="1163" selection-start-column="30" selection-end-line="1163" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/util/RestValidationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/resteasy/resteasy-jaxrs/3.0.24.Final/resteasy-jaxrs-3.0.24.Final.jar!/org/jboss/resteasy/core/Dispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0-sources.jar!/javax/ws/rs/core/Context.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-ear/target/application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/ContactDataServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/repository/PassportDataRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/PassportNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/PassportDataServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/PaymentNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="1" selection-start-line="3" selection-start-column="12" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/serializer/ObjectMapperContextResolver.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/PaymentDataServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/test/java/com/mycompany/cucoda/rest/AbstractRestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1.jar!/javax/ws/rs/core/MediaType.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1.jar!/javax/ws/rs/Produces.class" />
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/util/Authorizations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/webapp/WEB-INF/jboss-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/PersonRestService.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/CustomerDataServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/AddressDataServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/CucodaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/exception/InvalidArgumentException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/resteasy/resteasy-jaxrs/3.0.24.Final/resteasy-jaxrs-3.0.24.Final.jar!/org/jboss/resteasy/plugins/server/embedded/SimpleSecurityDomain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/resteasy/resteasy-jaxrs/3.0.24.Final/resteasy-jaxrs-3.0.24.Final.jar!/org/jboss/resteasy/plugins/server/embedded/SecurityDomain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/MonitoringService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-core/src/main/java/com/mycompany/cucoda/sevice/MonitoringServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/AddressId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#451#452#0" expanded="false" />
+            <element signature="e#479#480#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/CustomerNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/PassportId.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Contact.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/AddressId.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Passport.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Market.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/ContactId.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/CustomerNumber.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/PaymentId.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Gender.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/PassportType.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+          <folding>
+            <element signature="e#1584#1585#0" expanded="false" />
+            <element signature="e#1621#1622#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Payment.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0-sources.jar!/javax/annotation/security/RolesAllowed.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-integrationtest/src/main/template/com/mycompany/cucoda/api/VersionData.java" />
+    <entry file="file://$PROJECT_DIR$/cucoda-integrationtest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ReadCustomerDataRestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/MonitoringRestServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/MonitoringRestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/webapp/WEB-INF/jboss-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-ear/src/main/application/META-INF/jboss-deployment-structure.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/mapper/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/main/java/com/mycompany/cucoda/rest/ModifyCustomerDataRestBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="65" column="35" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/java/com/mycompany/cucoda/service/CustomerDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ModifyCustomerDataRestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/test/java/com/mycompany/cucoda/rest/ReadCustomerDataRestBeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-model/src/main/java/com/mycompany/cucoda/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-ear/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/target/generated/main/java/com/mycompany/cucoda/api/VersionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/src/main/template/com/mycompany/cucoda/api/VersionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="56" selection-start-line="89" selection-start-column="56" selection-end-line="89" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucoda-rest/src/got_to_git">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>cucoda:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cucoda</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.ws.rs:javax.ws.rs-api:2.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

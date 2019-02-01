@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="cucoda-core:ejb exploded">
+    <output-path>$PROJECT_DIR$/cucoda-core/target/cucoda-core-v${project.version.major}.${project.version.minor}${project.version.suffix}</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cucoda-core/ejb/EJB" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/cucoda-core/target/cucoda-core-v${project.version.major}.${project.version.minor}${project.version.suffix}/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="cucoda-core" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+com/mycompany/cucoda/sevice/CustomerDataServiceBean.class
+com/mycompany/cucoda/sevice/PaymentDataServiceBean.class
+com/mycompany/cucoda/sevice/ContactDataServiceBean.class
+com/mycompany/cucoda/repository/PaymentDataRepositoryImpl.class
+com/mycompany/cucoda/repository/CustomerDataRepositoryImpl.class
+com/mycompany/cucoda/repository/AddressRepositoryImpl.class
+com/mycompany/cucoda/sevice/PassportDataServiceBean.class
+com/mycompany/cucoda/repository/PassportDataRepositoryImpl.class
+com/mycompany/cucoda/sevice/MonitoringServiceBean.class
+com/mycompany/cucoda/repository/ContactDataRepositoryImpl.class
+com/mycompany/cucoda/sevice/AddressDataServiceBean.class

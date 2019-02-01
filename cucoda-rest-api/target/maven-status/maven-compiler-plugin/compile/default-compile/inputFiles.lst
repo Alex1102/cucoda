@@ -1,0 +1,17 @@
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/MonitoringRestService.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/ContactId.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ReadCustomerDataRestService.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Customer.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Address.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Contact.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Gender.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Market.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/PassportType.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/mapper/Mapper.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/api/ModifyCustomerDataRestService.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Passport.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/PassportId.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/PaymentId.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/AddressId.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/Payment.java
+/home/awiegant/Dokumente/hostsbss-workspace/customer-data-provider/cucoda/cucoda-rest-api/src/main/java/com/mycompany/cucoda/rest/model/CustomerNumber.java

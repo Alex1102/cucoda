@@ -1,0 +1,370 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "version" : "1.0-SNAPSHOT",
+    "title" : "cucoda",
+    "contact" : {
+      "name" : "???",
+      "url" : "github"
+    }
+  },
+  "basePath" : "/cucoda-v1.0-SNAPSHOT",
+  "paths" : {
+    "/customers" : {
+      "post" : {
+        "operationId" : "createCustomer",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "marketId",
+          "in" : "query",
+          "required" : false,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "put" : {
+        "operationId" : "updateCustomer",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "query",
+          "required" : false,
+          "type" : "string"
+        }, {
+          "name" : "marketId",
+          "in" : "query",
+          "required" : false,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      }
+    },
+    "/customers/{customerNumber}" : {
+      "get" : {
+        "operationId" : "getCustomer",
+        "produces" : [ "application/vnd.cucoda.customer-v1+json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "delete" : {
+        "operationId" : "deleteCustomer",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      }
+    },
+    "/customers/{customerNumber}/address" : {
+      "get" : {
+        "operationId" : "getAddress",
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "post" : {
+        "operationId" : "createAddress",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "put" : {
+        "operationId" : "updateAddress",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "delete" : {
+        "operationId" : "deleteAddress",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      }
+    },
+    "/customers/{customerNumber}/contact" : {
+      "get" : {
+        "operationId" : "getContact",
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "post" : {
+        "operationId" : "createContact",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "put" : {
+        "operationId" : "updateContact",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "delete" : {
+        "operationId" : "deleteContact",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      }
+    },
+    "/customers/{customerNumber}/passport" : {
+      "get" : {
+        "operationId" : "getPassport",
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "post" : {
+        "operationId" : "createPassport",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "put" : {
+        "operationId" : "updatePassport",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "delete" : {
+        "operationId" : "deletePassport",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      }
+    },
+    "/customers/{customerNumber}/payment" : {
+      "get" : {
+        "operationId" : "getPayment",
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "post" : {
+        "operationId" : "createPayment",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "put" : {
+        "operationId" : "updatePayment",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      },
+      "delete" : {
+        "operationId" : "deletePayment",
+        "consumes" : [ "application/xml", "application/json" ],
+        "produces" : [ "application/xml", "application/json" ],
+        "parameters" : [ {
+          "name" : "customerNumber",
+          "in" : "path",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "default" : {
+            "description" : "successful operation"
+          }
+        }
+      }
+    },
+    "/monitoring/ping" : {
+      "get" : {
+        "operationId" : "ping",
+        "produces" : [ "text/plain" ],
+        "responses" : {
+          "200" : {
+            "description" : "successful operation",
+            "schema" : {
+              "type" : "string"
+            }
+          }
+        }
+      }
+    },
+    "/monitoring/read" : {
+      "get" : {
+        "operationId" : "read",
+        "produces" : [ "text/plain" ],
+        "responses" : {
+          "200" : {
+            "description" : "successful operation",
+            "schema" : {
+              "type" : "string"
+            }
+          }
+        }
+      }
+    },
+    "/monitoring/write" : {
+      "get" : {
+        "operationId" : "write",
+        "produces" : [ "text/plain" ],
+        "responses" : {
+          "200" : {
+            "description" : "successful operation",
+            "schema" : {
+              "type" : "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}
